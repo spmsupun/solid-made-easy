@@ -1,0 +1,8 @@
+# Created by .ignore support plugin (hsz.mobi)
+.idea/.gitignore
+.idea/misc.xml
+.idea/modules.xml
+.idea/solid-made-easy.iml
+.idea/sonarlint/
+.idea/vcs.xml
+Principles/SRP/Refactored/
